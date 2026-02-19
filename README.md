@@ -1,21 +1,42 @@
+# SQL Practice – Data Analysis Portfolio
 
-# SQL Practice
+This repository documents my structured SQL learning path as part of my transition into Data Analytics.
 
-This repository contains my SQL learning journey and practice queries.
+## 📌 Objectives
+- Strengthen SQL fundamentals
+- Apply SQL to business-focused datasets
+- Simulate real-world retail data analysis
+- Build a professional data portfolio
 
-## Purpose
-The goal of this repository is to:
-- Practice SQL fundamentals step by step
-- Write clear and readable queries
-- Build a solid foundation for data analysis projects
+---
 
-## Topics covered
-- SELECT, WHERE, ORDER BY
-- Filtering and basic conditions
-- Aggregations (COUNT, SUM, AVG)
-- Grouping data
-- Simple business questions answered with SQL
+## 🗂 Projects Included
 
-## Status
-Work in progress 🚧 
-This repository will grow as I advance in my data analytics training.
+### 1️⃣ Retail Sales Analysis
+This project analyzes transactional retail data to answer key business questions.
+
+**Business Questions:**
+- When do sales peak during the day?
+- Which product categories generate the most revenue?
+- How does performance vary across locations?
+
+**Skills Used:**
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- JOIN
+- Aggregations (SUM, COUNT, AVG)
+
+---
+
+## 📊 Topics Covered
+- Filtering and conditional logic
+- Aggregations and grouping
+- Business-driven SQL queries
+- Structured data exploration
+
+---
+
+## 🚀 Status
+Work in progress – continuously improving as I advance in my data analytics training.
