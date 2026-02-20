@@ -7,6 +7,8 @@ This mini project analyzes sales data for a fictional retail business using SQL.
 - Which countries generate the highest total revenue?
 - Which is the average order value (AOV)?
 - Who are the top 5 highest -spending customers?
+### Key Insight
+- This query identifies which countries contribute  the most to overall revenue , helping the business prioritize high-performing markets
 
 ### Tables used
 - customers
