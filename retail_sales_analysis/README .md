@@ -3,10 +3,10 @@
 This mini project analyzes sales data for a fictional retail business using SQL.
 
 ### Business questions
-- How many customers does the business have?
-- Which countries generate the most revenue?
-- What is the average order value?
-- Which customers spend the most?
+- How many customers does the business have ?
+- Which countries generate the highest total revenue?
+- Which is the average order value (AOV)?
+- Who are the top 5 highest -spending customers?
 
 ### Tables used
 - customers
